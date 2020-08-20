@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es la historia de Jorge Alvarez Sone
 
 Jorge Alvarez tiene 34 años y nació en Peru
@@ -7,3 +8,20 @@ Todos los dias estudio programación
 Mi sueño es trabajar en area de programación
 
 Programación me cambio la vida!
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+
+Experimento 1
+
+Experimento 2
+
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
